@@ -1,0 +1,58 @@
+body{
+
+    font-family: Arial;
+    background-color: white;
+
+}
+
+/* Mobile Screen */
+
+.mobile{
+
+    width: 300px;
+
+    margin: 30px auto;
+
+    border: 2px solid black;
+
+    padding: 20px;
+
+}
+
+/* Common Box Style */
+
+.box{
+
+    border: 2px solid black;
+
+    padding: 20px;
+
+    margin-top: 15px;
+
+    text-align: center;
+
+}
+
+/* Title */
+
+.title{
+
+    font-weight: bold;
+
+}
+
+/* Button */
+
+.button{
+
+    cursor: pointer;
+
+}
+
+/* Food Card */
+
+.card{
+
+    height: 80px;
+
+}
