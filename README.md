@@ -1,1 +1,69 @@
 # Wireframe
+This project is a Low-Fidelity Mobile App Wireframe created using HTML and CSS.
+
+The purpose of this project is to:
+
+understand mobile app layout design
+learn wireframing basics
+create a simple app structure
+practice UI/UX design concepts
+
+The wireframe represents the basic structure of a food delivery mobile application.
+
+#Technologies Used
+Technology	Purpose
+HTML	Create structure
+CSS	Add layout and styling
+#Tools Used
+Tool	Purpose
+VS Code	Code editor
+Browser
+
+#Purpose of HTML
+
+HTML is used to create:
+
+structure
+layout
+elements
+
+The file used is:
+
+index.html
+Working of Each Tag
+Tag	Purpose
+<!DOCTYPE html>	Defines HTML5 document
+<html>	Root of webpage
+<head>	Stores title and links
+<body>	Visible webpage content
+Title Section
+<title>Low Fidelity Wireframe</title>
+Working
+
+Displays webpage title in browser tab.
+
+# Linking CSS
+<link rel="stylesheet" href="style.css">
+Working
+
+Connects external CSS file with HTML.
+# Features of Wireframe
+Main Features
+Mobile layout
+Login section
+Food item cards
+Placeholder components
+Structured screen arrangement
+Output Description
+
+The output displays:
+
+app logo placeholder
+email input placeholder
+password input placeholder
+login button placeholder
+food item cards
+
+All elements are arranged in a mobile-style layout.
+
+This allows styling of webpage elements.
